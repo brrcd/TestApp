@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">testApi</string>
+    <string name="button">PRESS ME</string>
 </resources>
